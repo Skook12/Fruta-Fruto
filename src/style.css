@@ -30,3 +30,7 @@
 .card-tamanho {
     max-width: 18rem !important;
 }
+
+a:focus, a:hover {  
+    border: 2px solid #F00;  
+}   
